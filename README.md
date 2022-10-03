@@ -21,6 +21,6 @@ Visualizing and Predicting Heart Diseases with an Interactive Dash Board
 
 ## Tech Stack
 
-**IBM Cloud**,**Cognos Analytics**
+**IBM Cloud**, **Cognos Analytics**
 
 
